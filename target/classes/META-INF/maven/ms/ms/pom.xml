@@ -22,4 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <build>
+  <finalName>devops-assignment03</finalName>
+  </build>
 </project>
